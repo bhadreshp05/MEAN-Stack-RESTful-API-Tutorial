@@ -1,0 +1,22 @@
+{
+  "name": "MEAN-Stack-RESTful-API-Tutorial",
+  "version": "1.0.0",
+  "description": "MEAN Stack RESTful API Tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhadreshp05/MEAN-Stack-RESTful-API-Tutorial.git"
+  },
+  "author": "Bhadresh Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhadreshp05/MEAN-Stack-RESTful-API-Tutorial/issues"
+  },
+  "homepage": "https://github.com/bhadreshp05/MEAN-Stack-RESTful-API-Tutorial",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
